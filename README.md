@@ -1,2 +1,8 @@
 # spring-mvc-template
-spring 4.1 mvc and hibernate 4.3 and springSecurityVersion 3.2 on tomcat 7 servlet and jdk 7 with gradle use eclipse
+spring  mvc 4.1
+hibernate 4.3 
+spring Security 3.2 
+tomcat 7
+jdk 7
+gradle 2.2.1
+eclipse
